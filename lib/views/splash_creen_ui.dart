@@ -38,7 +38,7 @@ class _SplashCreenUiState extends State<SplashCreenUi> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/images.logo.png',
+              'assets/images/logo.png',
               width: 130,
               height: 130,
               fit: BoxFit.cover,
@@ -59,7 +59,7 @@ class _SplashCreenUiState extends State<SplashCreenUi> {
               ),
             ),
             Text(
-              'Created by:NinniN SAU',
+              'Created by:Sawit SAU',
               style: TextStyle(
                 fontSize: 14,
                 color: Colors.grey,
